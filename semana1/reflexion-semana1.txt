@@ -1,1 +1,13 @@
+Reflexión: Información, Ciudadanía Digital y Trabajo Técnico con Git
 
+El uso responsable de la información en internet es la base de una buena ciudadanía digital,
+ya que cuando verificamos lo que leemos y compartimos, contribuimos a construir una sociedad
+más informada y menos vulnerable a las noticias falsas. Esta responsabilidad no es solo
+individual sino colectiva, porque cada publicación que hacemos puede influir en la opinión
+de muchas personas. De la misma manera las herramientas como Git nos enseñan a ser ordenados,
+cuidadosos y responsables con el trabajo que realizamos, ya que registran cada cambio hecho 
+en un proyecto y permiten saber quién hizo qué y en qué momento. Ese seguimiento que ofrece
+Git se parece mucho a la transparencia que debe tener un ciudadano digital que es actuar con honestidad
+y dejar evidencia de que las decisiones tomadas fueron responsables. para finalizar, tanto en el
+mundo digital como en el técnico, la organización, la verificación y la responsabilidad son
+valores fundamentales para participar de forma ética y constructiva en la sociedad actual.
