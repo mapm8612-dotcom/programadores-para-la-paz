@@ -1,1 +1,42 @@
+PRUEBAS DE RUTAS - SERVIDOR EXPRESS (puerto 3000)
+
+1) http://localhost:3000
+   - Método: GET
+   - Código de respuesta: 200 OK
+   - Contenido mostrado: "Servidor activo"
+   - Descripción: Ruta raíz del servidor. Confirma que la aplicación
+     Express está corriendo correctamente.
+
+2) http://localhost:3000/saludo
+   - Método: GET
+   - Código de respuesta: 200 OK
+   - Contenido mostrado: "Hola comunidad"
+   - Descripción: Ruta fija /saludo que devuelve siempre el mismo
+     texto de bienvenida.
+
+3) http://localhost:3000/mensaje/juan
+   - Método: GET
+   - Código de respuesta: 200 OK
+   - Contenido mostrado: "Hola juan"
+   - Descripción: Ruta dinámica /mensaje/:nombre. El valor "juan"
+     se captura mediante req.params.nombre y se concatena al
+     texto de respuesta ("Hola " + nombre). Si se cambia el valor
+     en la URL (por ejemplo /mensaje/maria), el servidor responde
+     con "Hola maria".
+
+Conclusión: las tres rutas funcionan como se esperaba.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
