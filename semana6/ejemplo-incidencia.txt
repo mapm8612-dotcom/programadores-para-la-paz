@@ -1,1 +1,11 @@
-
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días.",
+  "ubicacion": "Parque Principal, Calle 10 con Carrera 5",
+  "ciudadano": {
+    "nombre": "Juan Pérez",
+    "telefono": "3001234567",
+    "correo": "juan.perez@example.com"
+  },
+  "fecha_reporte": "2026-07-02",
+  }
