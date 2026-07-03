@@ -21,7 +21,3 @@
   "tipo": "Infraestructura",
   "descripcion": "Semáforo dañado en intersección concurrida"
 }
-
-
-
-¿Quieres que los agregue al archivo `ejemplos-reportes.txt` (actualizándolo con estos nuevos) o que los deje solo aquí en el chat?
