@@ -1,1 +1,11 @@
+Es fundamental que las comunidades e iniciativas ciudadanas puedan construir sus propias herramientas tecnológicas utilizando
+tecnologías abiertas como Node.js, porque esto les otorga autonomía e independencia frente a empresas privadas que suelen 
+imponer condiciones, costos o restricciones de uso sobre sus plataformas. Al utilizar software libre y de código abierto,
+las comunidades no dependen de licencias costosas ni de decisiones externas que puedan limitar su acceso a la tecnología.
+Además, las tecnologías abiertas permiten que los desarrollos sean transparentes y auditables, es decir, cualquier persona
+puede revisar el código, entender cómo funciona y verificar que no existan mecanismos ocultos que comprometan
+la privacidad o seguridad de los usuarios. Esto genera mayor confianza dentro de la comunidad.
+Otro aspecto clave es la adaptabilidad: al tener acceso al código fuente, las comunidades pueden
+modificar y ajustar las herramientas según sus necesidades específicas, contextos culturales o problemáticas locales, 
+algo que no sería posible con software cerrado y propietario.
 
