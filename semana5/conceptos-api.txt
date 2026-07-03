@@ -1,1 +1,32 @@
+1) ¿QUÉ HACE ESTA RUTA?
+
+Esta ruta define un endpoint POST en la dirección "reporte" usando Express.
+Cuando un cliente (por ejemplo, una app web o móvil) envía una solicitud
+POST a esta URL, el servidor ejecuta la función indicada. Primero, extrae
+el valor "mensaje" que viene dentro del cuerpo (body) de la solicitud,
+usando "req.body.mensaje". Luego, construye una respuesta en formato JSON
+que incluye dos campos: "estado", con el texto fijo "Reporte recibido", y
+"mensaje", que repite el mismo texto que el usuario envió. Finalmente,
+esa respuesta se envía de vuelta al cliente mediante "res.json()".
+
+2) ¿PARA QUÉ PODRÍA SERVIR EN UNA APLICACIÓN COMUNITARIA?
+
+Esta ruta podría ser la base para que los vecinos de una comunidad envíen
+reportes o quejas sobre problemas locales, como fallas de alumbrado,
+baches en las calles, fugas de agua o situaciones de inseguridad. Al
+recibir el mensaje del usuario, el servidor podría confirmar que el
+reporte llegó correctamente, dando tranquilidad a quien lo envió. En una
+versión más completa, en lugar de solo devolver el mensaje, la ruta
+podría guardar el reporte en una base de datos, asignarle una fecha y un
+número de folio, y notificar a las autoridades encargadas de resolverlo,
+creando así un canal de comunicación directo entre vecinos y gestores.
+
+
+
+
+
+
+
+
+
 
