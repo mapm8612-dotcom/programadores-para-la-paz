@@ -1,1 +1,27 @@
 
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de señalización en cruce peatonal escolar"
+}
+
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Tala no autorizada de árboles en parque público"
+}
+
+
+{
+  "tipo": "Servicios públicos",
+  "descripcion": "Fuga de agua potable en la calle principal"
+}
+
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Semáforo dañado en intersección concurrida"
+}
+
+
+
+¿Quieres que los agregue al archivo `ejemplos-reportes.txt` (actualizándolo con estos nuevos) o que los deje solo aquí en el chat?
