@@ -1,1 +1,8 @@
-
+[
+  {
+    "id": 1,
+    "nombre": "Ana Torres",
+    "correo": "ana.torres@correo.com",
+    "rol": "administrador"
+  }
+]
