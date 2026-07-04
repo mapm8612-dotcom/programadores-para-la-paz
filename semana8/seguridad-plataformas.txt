@@ -1,1 +1,5 @@
-
+* Validación de identidad
+* Cifrado de datos
+* Control de permisos
+* Monitoreo de actividad
+* Respaldo de información.
