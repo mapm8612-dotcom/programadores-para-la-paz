@@ -1,1 +1,19 @@
+* Sistema operativo
+Gestiona el hardware del servidor y provee los servicios básicos esenciales.
+Permite la ejecución segura de entornos como Node.js y controla los recursos del sistema. 
 
+* Node.js
+Funciona como el entorno de ejecución para interpretar el código de JavaScript.
+Permite que este lenguaje funcione en el servidor de la plataforma comunitaria. 
+
+* Aplicación server.js
+Contiene el código principal que define la lógica y comportamiento de la plataforma.
+Recibe las peticiones de los usuarios, procesa los datos y envía las respuestas. 
+
+* Puerto
+Actúa como una puerta o punto de acceso específico en el servidor web.
+Canaliza el tráfico de internet directo hacia la aplicación para que responda. 
+
+* Logs
+Registran de forma cronológica todos los eventos, accesos y errores del sistema.
+Sirven para auditar la seguridad y detectar fallos o ingresos sospechosos a tiempo.
