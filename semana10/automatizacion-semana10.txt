@@ -1,1 +1,9 @@
+Evento: nuevo reporte registrado.
+
+Acción: enviar mensaje a telegram
+
+Mensaje: "se recibio un nuevo reporte en el sistema. por favor ingrese a la plataforma para revisarlo".
+
+Información que no debe enviarse: no se deben enviar nombres completos numeros de tarjetas de identidad, direcciones 
+telefonos contraseñas, correos electronicos datos bancarios ni otra informacion confidencial.
 
