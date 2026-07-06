@@ -1,1 +1,10 @@
-
+1-Como ciudadano veedor, quiero registrar una incidencia con foto, ubicación y descripción para dejar evidencia documentada
+de una irregularidad en la gestión pública. (prioridad: critica)
+2-Como coordinador de la veeduría, quiero recibir una notificación inmediata en Telegram o WhatsApp cuando se registre un nuevo 
+reporte de alta gravedad para validar la información rápidamente. (Prioridad: Alta)
+3-Como miembro del equipo de seguimiento, quiero consultar el estado de los reportes (pendiente, en revisión, resuelto) para dar 
+respuesta a la comunidad y evitar la duplicidad de casos. (Prioridad: Media).
+4-Como ciudadano, quiero visualizar un mapa interactivo con las incidencias reportadas en mi zona para conocer el estado de la
+gestión comunitaria y fomentar la participación. (Prioridad: Media-Baja).
+5-Como administrador, quiero generar reportes estadísticos mensuales de incidencias resueltas vs. reportadas para presentar
+resultados a las autoridades y a la comunidad. *(Prioridad: Baja).
