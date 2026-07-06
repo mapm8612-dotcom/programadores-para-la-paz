@@ -1,1 +1,20 @@
+1. ¿Qué 2 tareas del backlog haría primero?
 
+Implementar la función para que el ciudadano pueda registrar una incidencia.
+Implementar el sistema de alertas para que el coordinador reciba una notificación cuando haya un nuevo reporte.
+
+2. ¿Por qué son las más importantes?
+
+Porque primero es necesario que los ciudadanos puedan registrar las incidencias. Después, las alertas permiten que
+el coordinador conozca rápidamente los nuevos casos y pueda revisarlos a tiempo. Sin estas dos funciones, el sistema
+no cumpliría su objetivo principal.
+
+3. ¿Qué significa para mi que una tarea esté terminada?
+
+Para mí, una tarea está terminada cuando funciona correctamente, ha sido probada, no presenta errores y cumple con 
+lo que se pidió en la historia de usuario. Además, el usuario puede utilizar esa función sin problemas.
+
+Funciona correctamente y cumple con lo solicitado en la historia de usuario.
+Fue probada y no presenta errores.
+Quedó registrada en Git con sus cambios guardados.
+El usuario puede utilizar la función sin inconvenientes.
