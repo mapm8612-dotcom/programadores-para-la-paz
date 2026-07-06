@@ -7,4 +7,4 @@ respuesta a la comunidad y evitar la duplicidad de casos. (Prioridad: Media).
 4-Como ciudadano, quiero visualizar un mapa interactivo con las incidencias reportadas en mi zona para conocer el estado de la
 gestión comunitaria y fomentar la participación. (Prioridad: Media-Baja).
 5-Como administrador, quiero generar reportes estadísticos mensuales de incidencias resueltas vs. reportadas para presentar
-resultados a las autoridades y a la comunidad. *(Prioridad: Baja).
+resultados a las autoridades y a la comunidad. (Prioridad: Baja).
