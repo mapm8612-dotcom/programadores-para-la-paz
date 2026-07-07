@@ -6,5 +6,5 @@ Algunas rutas deben estar protegidas porque contienen información privada o fun
 Esto evita accesos no permitidos, protege los datos y reduce el riesgo de modificaciones o acciones malintencionadas.
 
 No deberían exponerse datos personales como nombres completos, documentos de identidad, direcciones, números de teléfono,
-correos electrónicos privados, contraseñas, información bancaria, tokens, datos api, datos médicos ni cualquier otra información sensible
+correos electrónicos privados, contraseñas, información bancaria, tokens, claves api, datos médicos ni cualquier otra información sensible
 que pueda afectar la privacidad o la seguridad de los usuarios.
