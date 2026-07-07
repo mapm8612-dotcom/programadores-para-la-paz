@@ -1,6 +1,8 @@
 Una interfaz simple para la plataforma comunitaria tendría una página principal donde se muestren todas las causas disponibles
-en forma de tarjetas. En la parte superior habría un FORMULARIO PARA CREAR UNA CAUSA, con campos para el título y la descripción,
+en forma de tarjetas. 
+En la parte superior habría un FORMULARIO PARA CREAR UNA CAUSA, con campos para el título y la descripción,
 además de un botón para publicarla. 
+
 Cada causa mostraría su nombre, descripción y un CONTADOR DE APOYO que indique cuántas personas
 la han respaldado. También incluiría un BOTON APOYAR para que los usuarios puedan registrar su apoyo con un solo clic.
 De esta manera, la plataforma sería fácil de usar y permitiría crear, consultar y apoyar causas de forma rápida.
