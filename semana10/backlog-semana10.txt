@@ -4,7 +4,13 @@ de una irregularidad en la gestión pública. (prioridad: critica)
 reporte de alta gravedad para validar la información rápidamente. (Prioridad: Alta)
 3-Como miembro del equipo de seguimiento, quiero consultar el estado de los reportes (pendiente, en revisión, resuelto) para dar 
 respuesta a la comunidad y evitar la duplicidad de casos. (Prioridad: Media).
-4-Como ciudadano, quiero visualizar un mapa interactivo con las incidencias reportadas en mi zona para conocer el estado de la
+/
+1-Como ciudadano, quiero visualizar un mapa interactivo con las incidencias reportadas en mi zona para conocer el estado de la
 gestión comunitaria y fomentar la participación. (Prioridad: Media-Baja).
-5-Como administrador, quiero generar reportes estadísticos mensuales de incidencias resueltas vs. reportadas para presentar
+2-Como administrador, quiero generar reportes estadísticos mensuales de incidencias resueltas vs. reportadas para presentar
 resultados a las autoridades y a la comunidad. (Prioridad: Baja).
+3-Como miembro del equipo quiero consultar el estado de los reportes para hacer seguimiento a los casos pendientes.(prioridad:media baja)
+/
+1- Como ciudadano quiero reportar un problema en mi comunidad para que las autoridades puedan revisarlo y darle solución.(prioridad alta)
+2- Como coordinador quiero recibir una notificación cuando se registre un nuevo reporte para atenderlo lo más pronto posible. (prioridad media)
+3- Como miembro del equipo quiero consultar reportes para hacer seguimiento.(prioridad media baja).
