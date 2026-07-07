@@ -1,1 +1,27 @@
+ Entidad: Evento Comunitario
+
+Campos principales:
+
+ id: 2005 519
+titulo: Jornada de Reforestación 
+descripcion: Actividad para sembrar árboles en el parque principal del barrio.
+lugar: Parque Central
+fecha: 20/07/2026
+
+Propósito:
+Guardar la información de los eventos comunitarios para que los ciudadanos conozcan las actividades programadas y puedan participar.
+
+/
+ Entidad: Participante
+
+Campos principales:
+id: 8002 407
+evento_id: 2005
+nombre_usuario: LauraMartinez18 
+fecha_registro: 09/07/2026
+estado: Confirmado
+
+Propósito:
+Registrar a las personas que se inscriben en cada evento comunitario, facilitando el control de la asistencia y
+el seguimiento de la participación ciudadana.
 
