@@ -1,1 +1,12 @@
-
+Durante este curso aprendí que la tecnología puede ser una herramienta poderosa para fortalecer la participación ciudadana
+cuando se diseña pensando en las necesidades reales de la comunidad. Comprendí que no se trata de crear sistemas complejos, 
+sino soluciones simples y accesibles, como el sistema "Petición en 3 Clics", que permiten a cualquier persona registrar una 
+causa y sumar apoyos sin barreras técnicas.
+También aprendí la importancia de estructurar la información mediante modelos de datos claros, como las entidades "Causa" y "Apoyo",
+que permiten organizar y dar seguimiento a las peticiones ciudadanas de manera ordenada.
+Esto me mostró que detrás de cada herramienta digital hay decisiones de diseño que afectan directamente su utilidad social.
+Otro aprendizaje clave fue la importancia de proteger los datos personales. Entendí que minimizar la información sensible que
+se recolecta y comparte es fundamental para generar confianza en la comunidad y evitar riesgos innecesarios.
+Finalmente, descubrí cómo herramientas como n8n y Telegram permiten automatizar procesos y mantener informada a la comunidad 
+de forma rápida y transparente, sin exponer datos privados. En conjunto, el curso me mostró que la tecnología, bien utilizada,
+puede facilitar la organización colectiva y dar voz a causas que antes tenían dificultades para ser escuchadas.
