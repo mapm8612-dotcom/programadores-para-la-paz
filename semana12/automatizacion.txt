@@ -1,1 +1,5 @@
 
+Evento: Un ciudadano se registra como nuevo usuario en la plataforma
+Mensaje: Nuevo usuario registrado en la plataforma
+Información que no debe enviarse: cédulas, teléfonos, direcciones, correos electrónicos
+o cualquier dato personal del usuario.
