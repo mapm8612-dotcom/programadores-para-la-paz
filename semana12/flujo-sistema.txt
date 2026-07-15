@@ -1,1 +1,6 @@
-
+1. Crear causa: el ciudadano describe el problema.
+2. Registro: se guarda en la base de datos con ID y fecha.
+3. Apoyo: otros usuarios dan clic en Apoyar.
+4. Conteo: el sistema suma los apoyos automáticamente.
+5. PDF: se genera el documento formal con la petición y firmantes.
+6. Notificación: se avisa por Telegram/n8n cuando está listo.
