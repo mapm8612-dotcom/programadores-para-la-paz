@@ -1,1 +1,13 @@
+Causa: necesidad de agua potable
+- id: 209 772 02
+- titulo: "Instalación de sistema de agua potable en la vereda El Progreso"
+- descripcion: "La comunidad lleva 3 años sin acceso a agua potable y depende de camiones cisterna. 
+Se solicita a la alcaldía la construcción de una red de acueducto veredal."
+- fecha: 2025-04-02
 
+Apoyo: lider comunitario.
+-id: 102 304 86
+-causa: llamado de la comunidad por el instalamiento de un servicio necesario.
+-id:  102...
+- nombre: María Gómez
+- fecha: 2025-07-03
